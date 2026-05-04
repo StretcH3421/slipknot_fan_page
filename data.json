@@ -1,0 +1,108 @@
+{
+  "events": [
+    {
+      "id": 1,
+      "event": {
+        "name": "Resurrection Fest 2025",
+        "location": {
+          "city": "Viveiro",
+          "country": "Spain"
+        },
+        "date": {
+          "day": "2025-06-28"
+        }
+      }
+    },
+    {
+      "id": 2,
+      "event": {
+        "name": "Rock Fest BCN 2025",
+        "location": {
+          "city": "Santa Coloma de Gramenet",
+          "country": "Spain"
+        },
+        "date": {
+          "day": "2025-06-26"
+        }
+      }
+    },
+    {
+      "id": 3,
+      "event": {
+        "name": "Europe 2025 Tour",
+        "location": {
+          "city": "Décines-Charpieu",
+          "country": "France"
+        },
+        "date": {
+          "day": "2025-06-25"
+        }
+      }
+    },
+    {
+      "id": 4,
+      "event": {
+        "name": "Waldbühne Berlin Show",
+        "location": {
+          "city": "Berlin",
+          "country": "Germany"
+        },
+        "date": {
+          "day": "2025-06-23"
+        }
+      }
+    },
+    {
+      "id": 5,
+      "event": {
+        "name": "Copenhell 2025",
+        "location": {
+          "city": "Copenhagen",
+          "country": "Denmark"
+        },
+        "date": {
+          "day": "2025-06-21"
+        }
+      }
+    },
+    {
+      "id": 6,
+      "event": {
+        "name": "Graspop Metal Meeting 2025",
+        "location": {
+          "city": "Dessel",
+          "country": "Belgium"
+        },
+        "date": {
+          "day": "2025-06-20"
+        }
+      }
+    },
+    {
+      "id": 7,
+      "event": {
+        "name": "Festhalle Frankfurt Show",
+        "location": {
+          "city": "Frankfurt",
+          "country": "Germany"
+        },
+        "date": {
+          "day": "2025-06-19"
+        }
+      }
+    },
+    {
+      "id": 8,
+      "event": {
+        "name": "Ferrara Summer Festival 2025",
+        "location": {
+          "city": "Ferrara",
+          "country": "Italy"
+        },
+        "date": {
+          "day": "2025-06-17"
+        }
+      }
+    }
+  ]
+}
